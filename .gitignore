@@ -1,0 +1,33 @@
+# Maven
+target/
+*.jar
+*.war
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Spring Boot
+*.log
+application-local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Flutter
+so_chi_tieu_app/build/
+so_chi_tieu_app/.dart_tool/
+so_chi_tieu_app/.packages
+so_chi_tieu_app/pubspec.lock
+so_chi_tieu_app/android/.gradle/
+so_chi_tieu_app/android/local.properties
+so_chi_tieu_app/ios/Pods/
+so_chi_tieu_app/ios/.symlinks/
+so_chi_tieu_app/windows/flutter/ephemeral/
+
+# Gemini brain folder
+.gemini/
